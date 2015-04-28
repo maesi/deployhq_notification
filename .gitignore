@@ -1,0 +1,7 @@
+# eclipse files/directories
+.settings
+.project
+.buildpath
+
+# log directory
+log
